@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/64878501/93037360-e145de80-f65f-11ea-9f91-59f90bb34550.gif" width="100%">
+
 
 ## Stay connected with your friends with your own group chat app
 <img src="https://user-images.githubusercontent.com/64878501/93036769-69c37f80-f65e-11ea-91b0-dea62a68a99b.PNG" width="100%">
@@ -19,13 +19,5 @@
 4. Install all dependencies `npm install`
 5. run nodemon `npm run nodemon` 
 6. finnaly, Navigate to `http://127.0.0.1:5500`.Open two browsers and start chatting.
-=======
-# ChatApp
-Multiuser Chat App using Node.js and Socket.io
-How to run
-download the code then extract
-open the terminal (or Use Ctrl + backtick character)
-change directory cd .\nodeServer
-Install all dependencies npm install
-run nodemon npm run nodemon
-finnaly, Navigate to http://127.0.0.1:5500.Open two browsers and start chatting.
+
+
